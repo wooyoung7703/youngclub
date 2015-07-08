@@ -1,4 +1,4 @@
-//var app = require('express').createServer()
+﻿//var app = require('express').createServer()
 //var io = require('socket.io').listen(app);
 //var express = require('express'); 
 //var datas = require('./public/devdata.js');
@@ -11,7 +11,7 @@
 //var Logger  = require(__dirname + "/lib/Logger");
 //global.log  = new Logger(__dirname + "/logs/debug.log");
 //global.loge = new Logger(__dirname + "/logs/exception.log");
-////
+//////
 //io.sockets.on('connection', function (socket) {
 //
 //	/*
